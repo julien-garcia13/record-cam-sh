@@ -1,7 +1,7 @@
 
 # Record CAM RTSP
 
-A Bash script used to record the RTSP stream from a camera via a NAS server.
+A Bash script used to record the RTSP stream from a camera from an NAS server.
 
 ## Usage
 
