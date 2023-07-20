@@ -1,13 +1,13 @@
 
 # Record CAM RTSP
 
-Un script en Bash permettant d'enregistrer le flux RTSP d'une caméra via un serveur NAS.
+A Bash script used to record the RTSP stream from a camera via a NAS server.
 
-## Utilisation
+## Usage
 
-Vous devez créer un dossier, appelez le comme vous voulez, ou il sera possible de le lancer.
-Entrez dans le dossier "cd ..." puis télécharger le script à l'aide de wget.
-Rendez-le éxecutable avec "sudo chmod +x nom-du-script.sh"
-Lancez le avec ./nom-du-script.sh
+You need to create a folder, call it what you like, or it will be possible to launch it.
+Enter the "cd ..." folder and download the script using wget.
+Make it executable with "sudo chmod +x script-name.sh".
+Run it with ./script-name.sh
 
 ![screen](https://i.ibb.co/2sfnxqT/script.png)
